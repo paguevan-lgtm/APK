@@ -1,0 +1,7 @@
+{
+  "name": "Bora de Van",
+  "description": "Plataforma de transporte coletivo por vans, conectando passageiros e motoristas em tempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

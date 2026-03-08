@@ -1,0 +1,6 @@
+{
+  "appId": "com.boradevan.app",
+  "appName": "Bora de Van",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
